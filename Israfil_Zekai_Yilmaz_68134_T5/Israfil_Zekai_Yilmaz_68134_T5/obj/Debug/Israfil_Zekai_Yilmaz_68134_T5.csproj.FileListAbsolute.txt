@@ -1,0 +1,11 @@
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\bin\Debug\Israfil_Zekai_Yilmaz_68134_T5.exe.config
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\bin\Debug\Israfil_Zekai_Yilmaz_68134_T5.exe
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\bin\Debug\Israfil_Zekai_Yilmaz_68134_T5.pdb
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\obj\Debug\Israfil_Zekai_Yilmaz_68134_T5.csproj.AssemblyReference.cache
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\obj\Debug\Israfil_Zekai_Yilmaz_68134_T5.Form1.resources
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\obj\Debug\Israfil_Zekai_Yilmaz_68134_T5.Form2.resources
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\obj\Debug\Israfil_Zekai_Yilmaz_68134_T5.Properties.Resources.resources
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\obj\Debug\Israfil_Zekai_Yilmaz_68134_T5.csproj.GenerateResource.cache
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\obj\Debug\Israfil_Zekai_Yilmaz_68134_T5.csproj.CoreCompileInputs.cache
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\obj\Debug\Israfil_Zekai_Yilmaz_68134_T5.exe
+C:\Users\zekoc\Desktop\C#\Israfil_Zekai_Yilmaz_68134_T5\Israfil_Zekai_Yilmaz_68134_T5\obj\Debug\Israfil_Zekai_Yilmaz_68134_T5.pdb
